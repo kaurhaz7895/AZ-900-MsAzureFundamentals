@@ -23,7 +23,7 @@ In this walkthrough, we will create a virtual machine in the Azure portal, conne
     | Virtual machine name | **myVM** |
     | Region | **(US) East US**|
     | Availability options | No infrastructure redundancy options required|
-    | Image | **Windows Server 2019 Datacenter - Gen2**|
+    | Image | **Windows Server 2025 Datacenter x64 - Gen2**|
     | Size | **Standard D2s v3**|
     | Administrator account username | **azureuser** |
     | Administrator account password (type in carefully!) | **Pa$$w0rd1234**|
